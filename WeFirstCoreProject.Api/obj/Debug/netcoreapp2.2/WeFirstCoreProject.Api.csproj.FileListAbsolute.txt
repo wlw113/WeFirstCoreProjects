@@ -1,0 +1,14 @@
+D:\个人练习\MyFirstCoreDemo\WeFirstCoreProject\WeFirstCoreProject.Api\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Api.deps.json
+D:\个人练习\MyFirstCoreDemo\WeFirstCoreProject\WeFirstCoreProject.Api\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Api.runtimeconfig.json
+D:\个人练习\MyFirstCoreDemo\WeFirstCoreProject\WeFirstCoreProject.Api\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Api.runtimeconfig.dev.json
+D:\个人练习\MyFirstCoreDemo\WeFirstCoreProject\WeFirstCoreProject.Api\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Api.dll
+D:\个人练习\MyFirstCoreDemo\WeFirstCoreProject\WeFirstCoreProject.Api\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Api.pdb
+D:\个人练习\MyFirstCoreDemo\WeFirstCoreProject\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.csprojAssemblyReference.cache
+D:\个人练习\MyFirstCoreDemo\WeFirstCoreProject\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.csproj.CoreCompileInputs.cache
+D:\个人练习\MyFirstCoreDemo\WeFirstCoreProject\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.RazorAssemblyInfo.cache
+D:\个人练习\MyFirstCoreDemo\WeFirstCoreProject\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.RazorAssemblyInfo.cs
+D:\个人练习\MyFirstCoreDemo\WeFirstCoreProject\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.AssemblyInfoInputs.cache
+D:\个人练习\MyFirstCoreDemo\WeFirstCoreProject\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.AssemblyInfo.cs
+D:\个人练习\MyFirstCoreDemo\WeFirstCoreProject\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.RazorTargetAssemblyInfo.cache
+D:\个人练习\MyFirstCoreDemo\WeFirstCoreProject\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.dll
+D:\个人练习\MyFirstCoreDemo\WeFirstCoreProject\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.pdb
