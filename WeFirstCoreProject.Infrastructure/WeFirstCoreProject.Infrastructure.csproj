@@ -5,8 +5,18 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Map\" />
-    <Folder Include="Entitys\" />
+    <ProjectReference Include="..\WeFirstCoreProject.Model\WeFirstCoreProject.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.EntityFrameworkCore">
+      <HintPath>C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.entityframeworkcore\2.2.0\lib\netstandard2.0\Microsoft.EntityFrameworkCore.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Interface\" />
+    <Folder Include="Services\" />
   </ItemGroup>
 
 </Project>

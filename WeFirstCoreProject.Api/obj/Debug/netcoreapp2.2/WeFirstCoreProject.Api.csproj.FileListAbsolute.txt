@@ -12,3 +12,17 @@ D:\个人练习\MyFirstCoreDemo\WeFirstCoreProject\WeFirstCoreProject.Api\obj\De
 D:\个人练习\MyFirstCoreDemo\WeFirstCoreProject\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.RazorTargetAssemblyInfo.cache
 D:\个人练习\MyFirstCoreDemo\WeFirstCoreProject\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.dll
 D:\个人练习\MyFirstCoreDemo\WeFirstCoreProject\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.pdb
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Api\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Api.deps.json
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Api\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Api.runtimeconfig.json
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Api\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Api.runtimeconfig.dev.json
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Api\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Api.dll
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Api\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Api.pdb
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.csprojAssemblyReference.cache
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.csproj.CoreCompileInputs.cache
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.RazorAssemblyInfo.cache
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.RazorAssemblyInfo.cs
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.AssemblyInfoInputs.cache
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.AssemblyInfo.cs
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.RazorTargetAssemblyInfo.cache
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.dll
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Api\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Api.pdb

@@ -1,0 +1,8 @@
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Infrastructure.deps.json
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Infrastructure.dll
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Infrastructure.pdb
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Infrastructure.AssemblyInfoInputs.cache
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Infrastructure.AssemblyInfo.cs
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Infrastructure.dll
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Infrastructure.pdb

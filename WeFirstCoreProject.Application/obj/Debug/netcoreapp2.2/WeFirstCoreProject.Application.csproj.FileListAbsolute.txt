@@ -1,0 +1,9 @@
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Application.deps.json
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Application.dll
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Application.pdb
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Application.csprojAssemblyReference.cache
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Application.csproj.CoreCompileInputs.cache
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Application.AssemblyInfoInputs.cache
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Application.AssemblyInfo.cs
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Application.dll
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Application.pdb

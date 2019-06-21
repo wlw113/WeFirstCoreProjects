@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\个人练习\\MyFirstCoreDemo\\WeFirstCoreProject\\WeFirstCoreProject.Application\\WeFirstCoreProject.Application.csproj",
+      "projectUniqueName": "D:\\Test\\WeFirstCoreDemo\\WeFirstCoreProjects\\WeFirstCoreProject.Application\\WeFirstCoreProject.Application.csproj",
       "projectName": "WeFirstCoreProject.Application",
-      "projectPath": "D:\\个人练习\\MyFirstCoreDemo\\WeFirstCoreProject\\WeFirstCoreProject.Application\\WeFirstCoreProject.Application.csproj",
+      "projectPath": "D:\\Test\\WeFirstCoreDemo\\WeFirstCoreProjects\\WeFirstCoreProject.Application\\WeFirstCoreProject.Application.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\个人练习\\MyFirstCoreDemo\\WeFirstCoreProject\\WeFirstCoreProject.Application\\obj\\",
+      "outputPath": "D:\\Test\\WeFirstCoreDemo\\WeFirstCoreProjects\\WeFirstCoreProject.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

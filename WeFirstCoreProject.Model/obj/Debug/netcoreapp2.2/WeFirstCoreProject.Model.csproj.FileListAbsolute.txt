@@ -1,0 +1,12 @@
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Model\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Model.deps.json
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Model\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Model.dll
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Model\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Model.pdb
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Model\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Model\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Model\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Model.csprojAssemblyReference.cache
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Model\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Model.csproj.CoreCompileInputs.cache
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Model\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Model.AssemblyInfoInputs.cache
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Model\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Model.AssemblyInfo.cs
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Model\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Model.csproj.CopyComplete
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Model\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Model.dll
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Model\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Model.pdb
