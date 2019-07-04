@@ -12,6 +12,7 @@
       "commandName": "IISExpress",
       "launchBrowser": true,
       "environmentVariables": {
+        "connectionStrings:productionInfoDbConnectionString": "Data Source=.;Initial Catalog=FirstProjectDB;Integrated Security=True;",
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },

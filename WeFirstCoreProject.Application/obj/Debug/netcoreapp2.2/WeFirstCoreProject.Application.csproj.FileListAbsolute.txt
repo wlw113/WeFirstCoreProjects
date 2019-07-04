@@ -1,9 +1,16 @@
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Application.deps.json
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Application.dll
-D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Application.pdb
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Model.dll
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Model.pdb
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Application.csprojAssemblyReference.cache
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Application.csproj.CoreCompileInputs.cache
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Application.AssemblyInfoInputs.cache
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Application.AssemblyInfo.cs
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Application.csproj.CopyComplete
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Application.pdb
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Common.dll
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Infrastructure.dll
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Infrastructure.pdb
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Common.pdb
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Application.dll
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Application\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Application.pdb

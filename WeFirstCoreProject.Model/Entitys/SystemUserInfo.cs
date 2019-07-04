@@ -8,7 +8,6 @@ namespace WeFirstCoreProject.Model.Entitys
 {
     public class SystemUserInfo:EntityBase
     {
-        public int Id { get; set; }
         public string SystemAccount { get; set; }
         public string SystemPassword { get; set; }
         public string Name { get; set; }

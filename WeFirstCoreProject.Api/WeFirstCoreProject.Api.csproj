@@ -11,4 +11,11 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\WeFirstCoreProject.Application\WeFirstCoreProject.Application.csproj" />
+    <ProjectReference Include="..\WeFirstCoreProject.Common\WeFirstCoreProject.Common.csproj" />
+    <ProjectReference Include="..\WeFirstCoreProject.Infrastructure\WeFirstCoreProject.Infrastructure.csproj" />
+    <ProjectReference Include="..\WeFirstCoreProject.Model\WeFirstCoreProject.Model.csproj" />
+  </ItemGroup>
+
 </Project>

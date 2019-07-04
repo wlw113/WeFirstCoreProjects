@@ -1,9 +1,14 @@
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Common\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Common.deps.json
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Common\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Common.dll
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Common\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Common.pdb
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Common\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Model.dll
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Common\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Common\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Model.pdb
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Common\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Common\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Common.csprojAssemblyReference.cache
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Common\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Common.csproj.CoreCompileInputs.cache
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Common\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Common.AssemblyInfoInputs.cache
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Common\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Common.AssemblyInfo.cs
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Common\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Common.csproj.CopyComplete
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Common\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Common.dll
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Common\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Common.pdb

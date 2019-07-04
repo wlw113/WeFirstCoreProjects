@@ -1,8 +1,16 @@
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Infrastructure.deps.json
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Infrastructure.dll
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Infrastructure.pdb
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Common.dll
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Model.dll
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Common.pdb
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\bin\Debug\netcoreapp2.2\WeFirstCoreProject.Model.pdb
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Infrastructure.csprojAssemblyReference.cache
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Infrastructure.csproj.CoreCompileInputs.cache
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Infrastructure.AssemblyInfoInputs.cache
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Infrastructure.AssemblyInfo.cs
+D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Infrastructure.csproj.CopyComplete
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Infrastructure.dll
 D:\Test\WeFirstCoreDemo\WeFirstCoreProjects\WeFirstCoreProject.Infrastructure\obj\Debug\netcoreapp2.2\WeFirstCoreProject.Infrastructure.pdb

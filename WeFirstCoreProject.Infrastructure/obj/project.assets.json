@@ -208,6 +208,19 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+      "WeFirstCoreProject.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "WeFirstCoreProject.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WeFirstCoreProject.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WeFirstCoreProject.Common.dll": {}
+        }
+      },
       "WeFirstCoreProject.Model/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
@@ -689,6 +702,11 @@
         "netstandard.library.nuspec"
       ]
     },
+    "WeFirstCoreProject.Common/1.0.0": {
+      "type": "project",
+      "path": "../WeFirstCoreProject.Common/WeFirstCoreProject.Common.csproj",
+      "msbuildProject": "../WeFirstCoreProject.Common/WeFirstCoreProject.Common.csproj"
+    },
     "WeFirstCoreProject.Model/1.0.0": {
       "type": "project",
       "path": "../WeFirstCoreProject.Model/WeFirstCoreProject.Model.csproj",
@@ -698,6 +716,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.NETCore.App >= 2.2.0",
+      "WeFirstCoreProject.Common >= 1.0.0",
       "WeFirstCoreProject.Model >= 1.0.0"
     ]
   },
@@ -731,6 +750,9 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
+            "D:\\Test\\WeFirstCoreDemo\\WeFirstCoreProjects\\WeFirstCoreProject.Common\\WeFirstCoreProject.Common.csproj": {
+              "projectPath": "D:\\Test\\WeFirstCoreDemo\\WeFirstCoreProjects\\WeFirstCoreProject.Common\\WeFirstCoreProject.Common.csproj"
+            },
             "D:\\Test\\WeFirstCoreDemo\\WeFirstCoreProjects\\WeFirstCoreProject.Model\\WeFirstCoreProject.Model.csproj": {
               "projectPath": "D:\\Test\\WeFirstCoreDemo\\WeFirstCoreProjects\\WeFirstCoreProject.Model\\WeFirstCoreProject.Model.csproj"
             }
